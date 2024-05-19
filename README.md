@@ -10,7 +10,7 @@ My enthusiasm extends to the realm of 'Machine Learning' as well as 'Quantitativ
 ## Projects:
 
 - 🔭 [Kotlin Apps](https://github.com/KiritoMoreno/Kotlin-apps)
-- 🔭 [Trading Journal]()
+- 🔭 [Trading Journal](https://github.com/KiritoMoreno/Journal-Trading-App)
 - 🔭 [Track Money App](https://github.com/KiritoMoreno/TrackMoneyApp)
 - 🔭 [Podcast Generator](https://github.com/KiritoMoreno/podcast-generator)
 - 🔭 [Podcast Test](https://github.com/KiritoMoreno/podcast-test)
