@@ -1,33 +1,29 @@
 <h1 align="center">Hi 👋, I'm Khirann Moreno</h1>
-<h6>My professional journey is underpinned by a robust educational foundation, highlighted by my attainment of an Education and Training Administrative Management and Business Technician qualification. This credential underscores my unwavering dedication to mastering the intricacies of business operations and management, positioning me as a seasoned professional equipped to navigate complex organizational landscapes with finesse.
-
+<h6>My professional journey is underpinned by a robust educational foundation, highlighted by my attainment of an Education in Administrative Management and Business Technician qualification. This credential underscores my unwavering dedication to mastering the intricacies of business operations and management, positioning me as a seasoned professional equipped to navigate complex organizational landscapes with finesse.
+  
 Currently, I am pursuing a Certificate in the Development of Multi-Platform Applications, solidifying my technical prowess and adaptability in an ever-evolving digital landscape. In addition to my diverse educational background, I have a keen interest in mobile development. This certificate includes a focus on mobile app development for various platforms. I am excited about the potential of mobile technologies to revolutionize user experiences and am eager to apply my skills in this area to create innovative solutions that address real-world challenges.
 
-My enthusiasm extends to the realm of 'Data and Artificial Intelligence' as well as 'Quantitative Algorithmics.' Here, I am keen to apply my skills and I am deeply intrigued by the potential of data-driven technologies and quantitative algorithmic methods to reshape industries and bring transformative solutions.
+My enthusiasm extends to the realm of 'Machine Learning' as well as 'Quantitative Algorithmics.' I am deeply intrigued by the potential of data-driven technologies and quantitative algorithmic methods to reshape industries and bring transformative solutions.
 
 </h6>
 
 ## Projects:
 
-- 🔭 [Kotlin Apps]()
+- 🔭 [Kotlin Apps](https://github.com/KiritoMoreno/Kotlin-apps)
 - 🔭 [Trading Journal]()
-- 🔭 [Track Money App]()
-- 🔭 [Expense Manager]()
-- 🔭 [Hogwarts Seleccionador]()
-- 🔭 [Podcast Generator]() | [Podcast Test]()
+- 🔭 [Track Money App](https://github.com/KiritoMoreno/TrackMoneyApp)
+- 🔭 [Podcast Generator](https://github.com/KiritoMoreno/podcast-generator)
+- 🔭 [Podcast Test](https://github.com/KiritoMoreno/podcast-test)
 ---
 
-- 🔭 [Mini Games]()
-- 🔭 [RpG Celtas]()
-- 🔭 [Space Invaders]()
+- 🔭 [RpG Celtas](https://github.com/KiritoMoreno/Card-Game-Celdas)
+- 🔭 [Space Invaders](https://github.com/KiritoMoreno/Space-Invaders)
 ---
 
-- 🌱 I’m currently learning **[Machine Learning]()**
-- 🌐 Basic: [Virtal Environments]()
-- ➕ Basic: [Mathematical functions]()
-- 📊 Basic: [Data Visualization]()
-- 🔄 Basic Numpy & Pandas: [Data Manipulation and Transformation]()
-- 📈 [Quantitative Algorithmic]()
+- 🌱 I’m currently learning **Machine Learning**
+- ➕ Basic: [Mathematical functions](https://github.com/KiritoMoreno/Funciones_Mat_Code)
+- 🔄 Basic Numpy & Pandas: [Data Manipulation and Transformation](https://github.com/KiritoMoreno/NumPy_Pandas_Basic)
+- 📈 [Quantitative Algorithmic](https://github.com/KiritoMoreno/Algorithmic_Trading_Code)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +36,6 @@ My enthusiasm extends to the realm of 'Data and Artificial Intelligence' as well
   - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   - C# <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="30"/>
   - JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  - PHP <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="30"/>
 
 ### AI/ML:
 - Pandas <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -52,8 +47,6 @@ My enthusiasm extends to the realm of 'Data and Artificial Intelligence' as well
 - PostgreSQL <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 - Oracle  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 - SQLite <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-- SQL Server <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-- SQLWorkbench <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MySQL_Workbench_Logo.png/64px-MySQL_Workbench_Logo.png" alt="SQLWorkbench" width="30"/>
 - Room <img src="https://img.icons8.com/color/48/000000/room.png" alt="Room" width="30"/>
 - Firebase <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 - Seaborn <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
