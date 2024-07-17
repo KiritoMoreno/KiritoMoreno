@@ -8,7 +8,7 @@ My enthusiasm extends to the realm of 'Machine Learning' as well as 'Quantitativ
 </h6>
 
 ## Projects:
-- 🔭 [Horoscope App] (https://github.com/KiritoMoreno/HoroscopApp)
+- 🔭 [Horoscope App](https://github.com/KiritoMoreno/HoroscopApp)
 - 🔭 [Kotlin Apps](https://github.com/KiritoMoreno/Kotlin-apps)
 - 🔭 [Trading Journal](https://github.com/KiritoMoreno/Journal-Trading-App)
 - 🔭 [Track Money App](https://github.com/KiritoMoreno/TrackMoneyApp)
