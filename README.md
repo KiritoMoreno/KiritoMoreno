@@ -5,6 +5,7 @@ Currently, I am pursuing a Certificate in the Development of Multi-Platform Appl
 
 My enthusiasm extends to the realm of 'Machine Learning' as well as 'Quantitative Algorithmics.' I am deeply intrigued by the potential of data-driven technologies and quantitative algorithmic methods to reshape industries and bring transformative solutions.
 
+For each project, I ensure that there is an **ES-README** file available, providing detailed information about the project in Spanish, making it accessible to a broader audience.
 </h6>
 
 ## Projects:
