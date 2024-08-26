@@ -34,9 +34,7 @@ For each project, I ensure that there is an **ES-README** file available, provid
 ### Programming Languages:
   - Kotlin <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   - Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  - Jetpack Compose <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpackcompose" width="40" height="40"/> 
-</a>
+  - Jetpack Compose <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpackcompose" width="40" height="40"/> </a>
   - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   - C# <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="30"/>
   - JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
